@@ -11,3 +11,7 @@ Avec CaddieUp, vous pourrez récupérer votre caddie en scannant votre carte de 
 De plus, des idées de recettes ou des compléments de produits seront proposés pour compléter vos achats. Vous avez le choix pour votre moyen de paiement, payez directement sur le caddie ou en caisse. Et pour vous éviter de perdre du temps aux caisses, vous pourrez générer un QR Code sur la tablette, le caissier scanne, il ne vous restera plus qu’à payer.
 
 CaddieUp facilite vos courses, vous accompagne, vous conseille et optimise votre temps en réduisant le temps nécessaire à vos courses. Rejoignez-nous dès maintenant et découvrez les nombreux avantages que CaddieUp a à vous offrir !
+
+## Description de la Landing Page 
+
+La page d'accueil présente une vue générale du produit, avec une description et des images du caddie connecté. Il y a également un bouton "Tester" qui redirige vers une page de démonstration. En tant que démonstration, nous avons maquetter l'interfarce qui sera proposé sur les tablettes de nos futures caddies. Nous proposons également de nombreux callToActions afin que les visiteurs puissent s'inscrire à la newletter ou encore nous contacter afin de nous faire part de remarques ou de propositions. 
